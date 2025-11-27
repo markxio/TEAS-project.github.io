@@ -49,6 +49,16 @@ feature_row:
   </div>
 </div>
 
+## MoE-CAP Dashboard 
+
+<iframe
+	src="https://auto-cap-moe-cap-dashboard.hf.space"
+	frameborder="0"
+	width="100%"
+	height="800"
+></iframe>
+
+<!--
 
 ## CAP Results
 
@@ -67,7 +77,6 @@ function setPicture() {
     }
 }
 </script>
-
 
 <div class="row">
 
@@ -89,3 +98,5 @@ function setPicture() {
 <div>
 <iframe id="results1" src="/assets/diagrams/Qwen3-235B-A22B_radar.html" width="150%" height="800px" frameborder="0"></iframe>
 </div>
+
+-->
