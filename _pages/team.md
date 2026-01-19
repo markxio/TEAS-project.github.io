@@ -1,5 +1,5 @@
 ---
-permalink: /about/team/
+permalink: /team/
 title: "Team"
 layout: categories
 ---
