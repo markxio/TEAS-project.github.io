@@ -5,7 +5,6 @@ hidden: true
 title: Tracking Evolving AI and Systems
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/alina-grubnyak-ZiQkhI7417A-unsplash.jpg
 excerpt:  Uniting Models, Algorithms, and System Innovators with Top-Down Evolutionary Benchmarks.
 
 feature_row:
@@ -33,19 +32,13 @@ feature_row:
 
 --- 
 
-{% include feature_row %}    
+<!-- {% include feature_row %} -->
 
 
-<div style="text-align: left; display: grid; grid-template-columns: 1fr 0.1fr 1fr;">
+<div style="text-align: left;">
   <div>
   <h1>Our Goal</h1>
-  We aim to create a suite of next-generation benchmarks that track the fast-evolving landscape of AI, and measure the complex trade-offs across costs, accuracy, and performance on a range of state-of-the-art hardware.
-  </div>
-  <div>
-  </div>
-  <div>
-  <h1>Our Approach</h1>
-  Our approach is informed by two selection maps (one for models and the other for systems), with a broad team with extensive expertise in AI research and practice – a combination that allows for rapid evolution of the benchmarks.
+  We aim to create a suite of next-generation benchmarks that track the fast-evolving landscape of AI, and measure the complex trade-offs across costs, accuracy, and performance on a range of state-of-the-art hardware. Our approach is informed by two selection maps (one for models and the other for systems), with a broad team with extensive expertise in AI based at the <a href="https://www.ed.ac.uk/">University of Edinburgh</a>, <a href="https://www.epcc.ed.ac.uk/">EPCC</a>, and <a href="https://www.imperial.ac.uk/">Imperial College London</a>. Our project is funded by <a href="https://www.aria.org.uk">ARIA</a> as part of the "<a href="https://www.aria.org.uk/opportunity-spaces/nature-computes-better/scaling-compute/">Scaling compute</a>" programme. 
   </div>
 </div>
 
