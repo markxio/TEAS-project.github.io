@@ -1,15 +1,15 @@
 main: 
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /
     sublinks:
-    - title: "Mission"
-      url: /about/
-    - title: "Team"
-      url: /about/team
-    - title: "Advisory Panel"
-      url: /about/advisors
+    #- title: "Mission"
+    #  url: /about/
+  - title: "Team"
+    url: /team
+    #- title: "Advisory Panel"
+    #  url: /about/advisors
 
-  - title: "Posts"
-    url: /posts/
-  - title: "Events"
-    url: /events/
+  #- title: "Posts"
+  #  url: /posts/
+  #- title: "Events"
+  #  url: /events/
